@@ -50,7 +50,9 @@ dos critérios de validação presentes na especificação dos requisitos de sof
 
     Considerando o exposto, descreva um cenário que compõe o conceito de teste beta:
 
-_Escreve a resposta aqui_
+    Uma maneira de realização de testes e garantia de software, é a mudança de sistema de uma empresa. Pois terá que ter garantia
+    de que irá funcionar e suprir os requisitos necessários. O sistema terá de ser validado depois de instalado, e claramente
+    ter um backup salvo caso não funcionar da meneira pretendida.
 
 ---
 
@@ -100,7 +102,7 @@ _Escreve a resposta aqui_
 
 10. (UFPR-2010) Na avaliação da qualidade de software, corretitude é:
 
-Corretude é escrever um código limpo e legível, onde outros programadores irão entender. Também deve ser testado, para garantir a segurança ou quebra de regras.
+_Escreve a resposta aqui_
 
 ---
 
