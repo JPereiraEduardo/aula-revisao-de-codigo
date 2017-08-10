@@ -100,7 +100,7 @@ _Escreve a resposta aqui_
 
 10. (UFPR-2010) Na avaliação da qualidade de software, corretitude é:
 
-_Escreve a resposta aqui_
+Corretude é escrever um código limpo e legível, onde outros programadores irão entender. Também deve ser testado, para garantir a segurança ou quebra de regras.
 
 ---
 
